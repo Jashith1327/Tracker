@@ -2,3 +2,5 @@ streamlit-webrtc
 mediapipe
 numpy
 opencv-python
+python==3.8.*
+opencv-python
