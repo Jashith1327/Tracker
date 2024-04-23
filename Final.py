@@ -1,8 +1,8 @@
-# Replace OpenCV with streamlit-webrtc
 import streamlit as st
 import streamlit_webrtc as webrtc
 import mediapipe as mp
 import numpy as np
+import cv2  # Import OpenCV
 
 mp_drawing = mp.solutions.drawing_utils
 mp_pose = mp.solutions.pose
